@@ -3,54 +3,54 @@
   set_inol: '0.2'
   volume: '21'
   week: 1
-  weight: '78.0'
-  weight_olympic: '78.0'
-  weight_powerlifting: '77.5'
+  weight: '88.4'
+  weight_olympic: '88.0'
+  weight_powerlifting: '87.5'
 - exercise_inol: 0.6
   scheme: 2x9@70%
   set_inol: '0.3'
   volume: '18'
   week: 2
-  weight: '84.0'
-  weight_olympic: '84.0'
-  weight_powerlifting: '85.0'
+  weight: '95.2'
+  weight_olympic: '95.0'
+  weight_powerlifting: '95.0'
 - exercise_inol: 0.6
   scheme: 5x3@75%
   set_inol: '0.12'
   volume: '15'
   week: 3
-  weight: '90.0'
-  weight_olympic: '90.0'
-  weight_powerlifting: '90.0'
+  weight: '102.0'
+  weight_olympic: '102.0'
+  weight_powerlifting: '102.5'
 - exercise_inol: 0.6
   scheme: 4x3@80%
   set_inol: '0.15'
   volume: '12'
   week: 4
-  weight: '96.0'
-  weight_olympic: '96.0'
-  weight_powerlifting: '95.0'
+  weight: '108.8'
+  weight_olympic: '109.0'
+  weight_powerlifting: '110.0'
 - exercise_inol: 0.6000000000000001
   scheme: 3x3@85%
   set_inol: '0.2'
   volume: '9'
   week: 5
-  weight: '102.0'
-  weight_olympic: '102.0'
-  weight_powerlifting: '102.5'
+  weight: '115.6'
+  weight_olympic: '116.0'
+  weight_powerlifting: '115.0'
 - exercise_inol: 0.6
   scheme: 2x3@90%
   set_inol: '0.3'
   volume: '6'
   week: 6
-  weight: '108.0'
-  weight_olympic: '108.0'
-  weight_powerlifting: '107.5'
+  weight: '122.4'
+  weight_olympic: '122.0'
+  weight_powerlifting: '122.5'
 - exercise_inol: 0.6000000000000001
   scheme: 3x1@95%
   set_inol: '0.2'
   volume: '3'
   week: 7
-  weight: '114.0'
-  weight_olympic: '114.0'
-  weight_powerlifting: '115.0'
+  weight: '129.2'
+  weight_olympic: '129.0'
+  weight_powerlifting: '130.0'
