@@ -8,7 +8,7 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 
 ## Plan
 
- ... | Scheme | Weight | Olympic | Power
+ ... | Sets/Reps | Weight | Olympic | Power
 --- | --- | --- | --- | ---
 1 | 6x3@55% | 99.0 | 99.0 | 100.0
 2 | 4x4@60% | 108.0 | 108.0 | 107.5

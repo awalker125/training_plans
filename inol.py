@@ -265,7 +265,7 @@ def main():
         outfile2.write(header3)
         #header = "{0:5} {1:12} {2:8} {3:10} {4:8}\n".format("Week","Scheme","Weight","Olympic", "Power")
         
-        data_table_headers = " ... | {0} | {1} | {2} | {3}\n".format("Scheme","Weight","Olympic","Power")
+        data_table_headers = " ... | {0} | {1} | {2} | {3}\n".format("Sets/Reps","Weight","Olympic","Power")
         outfile2.write(data_table_headers)
         
         data_table_def = "--- | --- | --- | --- | ---\n"
