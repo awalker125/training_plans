@@ -166,7 +166,8 @@ def main():
     training_plan_file_name = "training_plan_" + str(config["max_reps"]) + "_" + str(config["max_sets"]) + "_" + str(options.weeks) + "_" + str(config["target_exercise_inol"])
     training_plan_file_path = options.output + "/" + training_plan_file_name + ".yaml"
     
-    training_plan_summary_file_name = "training_plan_summary_" + str(config["max_reps"]) + "_" + str(config["max_sets"]) + "_" + str(options.weeks) + "_" + str(config["target_exercise_inol"])
+    #training_plan_summary_file_name = "training_plan_summary_" + str(config["max_reps"]) + "_" + str(config["max_sets"]) + "_" + str(options.weeks) + "_" + str(config["target_exercise_inol"])
+    training_plan_summary_file_name = "README.md"   #This makes it show up nice in git
     training_plan_summary_file_path = options.output + "/" + training_plan_summary_file_name + ".txt"          
             
     training_plan = []             
@@ -223,13 +224,59 @@ def main():
             yaml.dump(sorted_training_plan, outfile, default_flow_style=False)
             
     with open(training_plan_summary_file_path, 'w') as outfile2:
-        header = "{0:5} {1:12} {2:8} {3:10} {4:8}\n".format("Week","Scheme","Weight","Olympic", "Power")
+        
+        #Markdown | Less | Pretty
+        #--- | --- | ---
+        #*Still* | `renders` | **nicely**
+        #1 | 2 | 3
+        
+        
+        #name: snatch
+        #current_max: 125
+        #target_exercise_inol: 0.8
+        #max_exercise_inol: 2
+        #min_exercise_inol: 0.3
+        #max_set_inol: 0.5
+        #min_set_inol: 0.05
+        #intensity_increment: 5
+        #max_intensity: 95
+        #max_reps: 5
+        #min_reps: 1
+        #min_sets: 1
+        #max_sets: 10
+        
+        header1 = "# {0}\n\n".format(config["name"].title())
+        outfile2.write(header1)
+        
+        header2 = "## {0}\n\n".format("Summary")
+        outfile2.write(header2)
+        
+        header_table_headers = "{0} | {1} | {2} | {3} | {4}\n".format("Weeks","Max","Target INOL","Max Reps","Max Sets")
+        outfile2.write(header_table_headers)
+        
+        header_table_def = "--- | --- | --- | --- | ---\n"
+        outfile2.write(header_table_def)
+        
+        header_table_data = "{0} | {1} | {2} | {3} | {4}\n\n".format(str(options.weeks),config["current_max"],config["target_exercise_inol"],config["max_reps"],config["max_sets"])
+        outfile2.write(header_table_data)
+        
+        
+        header3 = "## {0}\n\n".format("Plan")
+        outfile2.write(header3)
+        #header = "{0:5} {1:12} {2:8} {3:10} {4:8}\n".format("Week","Scheme","Weight","Olympic", "Power")
+        
+        data_table_headers = " | {0} | {1} | {2} | {3}\n".format("Scheme","Weight","Olympic","Power")
+        outfile2.write(data_table_headers)
+        
+        data_table_def = "--- | --- | --- | --- | ---\n"
+        outfile2.write(data_table_def)
         
         #seperator = "{0:_<10}\n".format("#")
-        outfile2.write(header)
+        #outfile2.write(header)
         #outfile2.write(seperator)
         for week in sorted_training_plan:
-            summary = "{0:5} {1:12} {2:8} {3:10} {4:8}\n".format(str(week['week']),week['scheme'],week['weight'],week['weight_olympic'],week['weight_powerlifting'])
+            #summary = "{0:5} {1:12} {2:8} {3:10} {4:8}\n".format(str(week['week']),week['scheme'],week['weight'],week['weight_olympic'],week['weight_powerlifting'])
+            summary = "{0} | {1} | {2} | {3} | {4}\n".format(str(week['week']),week['scheme'],week['weight'],week['weight_olympic'],week['weight_powerlifting'])
             outfile2.write(summary)
     #end = time.time()
     #elapse = end - start

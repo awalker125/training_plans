@@ -1,10 +1,14 @@
-# bench
+# Bench
+
+## Summary
 
 Weeks | Max | Target INOL | Max Reps | Max Sets
 --- | --- | --- | --- | ---
 6 | 185 | 0.8 | 10 | 6
 
-Week | Scheme | Weight | Olympic | Power
+## Plan
+
+ | Scheme | Weight | Olympic | Power
 --- | --- | --- | --- | ---
 1 | 4x7@65% | 120.25 | 120.0 | 120.0
 2 | 6x4@70% | 129.5 | 130.0 | 130.0
