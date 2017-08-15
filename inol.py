@@ -164,7 +164,10 @@ def main():
     logging.info("min_intensity: {0}".format(str(min_intensity)))
     
     training_plan_file_name = "training_plan_" + str(config["max_reps"]) + "_" + str(config["max_sets"]) + "_" + str(options.weeks) + "_" + str(config["target_exercise_inol"])
-    training_plan_file_path = options.output + "/" + training_plan_file_name + ".yaml"     
+    training_plan_file_path = options.output + "/" + training_plan_file_name + ".yaml"
+    
+    training_plan_summary_file_name = "training_plan_summary_" + str(config["max_reps"]) + "_" + str(config["max_sets"]) + "_" + str(options.weeks) + "_" + str(config["target_exercise_inol"])
+    training_plan_summary_file_path = options.output + "/" + training_plan_summary_file_name + ".txt"          
             
     training_plan = []             
     week = 0
@@ -218,6 +221,16 @@ def main():
     sorted_training_plan = sorted(training_plan, key=lambda k: (k['week']))
     with open(training_plan_file_path, 'w') as outfile:
             yaml.dump(sorted_training_plan, outfile, default_flow_style=False)
+            
+    with open(training_plan_summary_file_path, 'w') as outfile2:
+        header = "{0:5} {1:12} {2:8} {3:10} {4:8}\n".format("Week","Scheme","Weight","Olympic", "Power")
+        
+        #seperator = "{0:_<10}\n".format("#")
+        outfile2.write(header)
+        #outfile2.write(seperator)
+        for week in sorted_training_plan:
+            summary = "{0:5} {1:12} {2:8} {3:10} {4:8}\n".format(str(week['week']),week['scheme'],week['weight'],week['weight_olympic'],week['weight_powerlifting'])
+            outfile2.write(summary)
     #end = time.time()
     #elapse = end - start
 
