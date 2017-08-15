@@ -167,8 +167,8 @@ def main():
     training_plan_file_path = options.output + "/" + training_plan_file_name + ".yaml"
     
     #training_plan_summary_file_name = "training_plan_summary_" + str(config["max_reps"]) + "_" + str(config["max_sets"]) + "_" + str(options.weeks) + "_" + str(config["target_exercise_inol"])
-    training_plan_summary_file_name = "README.md"   #This makes it show up nice in git
-    training_plan_summary_file_path = options.output + "/" + training_plan_summary_file_name + ".txt"          
+    training_plan_summary_file_name = "README"   #This makes it show up nice in git
+    training_plan_summary_file_path = options.output + "/" + training_plan_summary_file_name + ".md"          
             
     training_plan = []             
     week = 0
