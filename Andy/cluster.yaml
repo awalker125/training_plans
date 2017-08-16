@@ -1,8 +1,8 @@
 ---
 
-name: snatch
-current_max: 122
-target_exercise_inol: 0.6
+name: cluster
+current_max: 105
+target_exercise_inol: 0.4
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.5
