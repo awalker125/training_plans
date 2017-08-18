@@ -1,7 +1,7 @@
 ---
 
 name: clean pull
-current_max: 180
+current_max: 170
 target_exercise_inol: 0.4
 max_exercise_inol: 2
 min_exercise_inol: 0.3

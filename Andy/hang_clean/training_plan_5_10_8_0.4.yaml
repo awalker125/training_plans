@@ -3,70 +3,70 @@
   set_inol: '0.0666666666667'
   volume: '18'
   week: 1
-  weight: '75.9'
-  weight_olympic: '76.0'
-  weight_powerlifting: '75.0'
+  weight: '71.5'
+  weight_olympic: '72.0'
+  weight_powerlifting: '72.5'
 - exercise_inol: 0.4
   scheme: 4x4@60%
   set_inol: '0.1'
   volume: '16'
   week: 2
-  weight: '82.8'
-  weight_olympic: '83.0'
-  weight_powerlifting: '82.5'
+  weight: '78.0'
+  weight_olympic: '78.0'
+  weight_powerlifting: '77.5'
 - exercise_inol: 0.39999999999999997
   scheme: 7x2@65%
   set_inol: '0.0571428571429'
   volume: '14'
   week: 3
-  weight: '89.7'
-  weight_olympic: '90.0'
-  weight_powerlifting: '90.0'
+  weight: '84.5'
+  weight_olympic: '85.0'
+  weight_powerlifting: '85.0'
 - exercise_inol: 0.4
   scheme: 6x2@70%
   set_inol: '0.0666666666667'
   volume: '12'
   week: 4
-  weight: '96.6'
-  weight_olympic: '97.0'
-  weight_powerlifting: '97.5'
+  weight: '91.0'
+  weight_olympic: '91.0'
+  weight_powerlifting: '90.0'
 - exercise_inol: 0.4
   scheme: 5x2@75%
   set_inol: '0.08'
   volume: '10'
   week: 5
-  weight: '103.5'
-  weight_olympic: '104.0'
-  weight_powerlifting: '102.5'
+  weight: '97.5'
+  weight_olympic: '98.0'
+  weight_powerlifting: '97.5'
 - exercise_inol: 0.4
   scheme: 4x2@80%
   set_inol: '0.1'
   volume: '8'
   week: 6
-  weight: '110.4'
-  weight_olympic: '110.0'
-  weight_powerlifting: '110.0'
+  weight: '104.0'
+  weight_olympic: '104.0'
+  weight_powerlifting: '105.0'
 - exercise_inol: 0.4
   scheme: 6x1@85%
   set_inol: '0.0666666666667'
   volume: '6'
   week: 7
-  weight: '117.3'
-  weight_olympic: '117.0'
-  weight_powerlifting: '117.5'
+  weight: '110.5'
+  weight_olympic: '111.0'
+  weight_powerlifting: '110.0'
 - exercise_inol: 0.4
   scheme: 4x1@90%
   set_inol: '0.1'
   volume: '4'
   week: 8
-  weight: '124.2'
-  weight_olympic: '124.0'
-  weight_powerlifting: '125.0'
+  weight: '117.0'
+  weight_olympic: '117.0'
+  weight_powerlifting: '117.5'
 - exercise_inol: 0.4
   scheme: 2x1@95%
   set_inol: '0.2'
   volume: '2'
   week: 9
-  weight: '131.1'
-  weight_olympic: '131.0'
-  weight_powerlifting: '130.0'
+  weight: '123.5'
+  weight_olympic: '124.0'
+  weight_powerlifting: '122.5'
