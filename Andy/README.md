@@ -76,7 +76,7 @@
 
 #### heavy
 
-	snatch: 0.6 
+	snatch: 0.8 
 	hang snatch: 0.4
 	power snatch: 0.4 
 	snatch pull: 0.4  
@@ -94,7 +94,7 @@
 ### clean days
 
 #### heavy
-	clean: 0.6
+	clean: 0.8
 	hang clean: 0.4
 	power clean: 0.4 
 	clean pull: 0.4 
@@ -112,5 +112,5 @@
 
 #### total 
 
-	5.2
+	5.6
 	
