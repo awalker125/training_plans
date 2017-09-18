@@ -26,13 +26,6 @@
   weight: '138.25'
   weight_olympic: '138.0'
   weight_powerlifting: '137.5'
-- exercise_inol: 0.4
-  scheme: 1x5@87.5%
-  set_inol: '0.4'
-  volume: '5'
-  weight: '138.25'
-  weight_olympic: '138.0'
-  weight_powerlifting: '137.5'
 - exercise_inol: 0.48
   scheme: 3x2@87.5%
   set_inol: '0.16'
@@ -43,13 +36,6 @@
 - exercise_inol: 0.48
   scheme: 2x3@87.5%
   set_inol: '0.24'
-  volume: '6'
-  weight: '138.25'
-  weight_olympic: '138.0'
-  weight_powerlifting: '137.5'
-- exercise_inol: 0.48
-  scheme: 1x6@87.5%
-  set_inol: '0.48'
   volume: '6'
   weight: '138.25'
   weight_olympic: '138.0'
@@ -82,13 +68,6 @@
   weight: '138.25'
   weight_olympic: '138.0'
   weight_powerlifting: '137.5'
-- exercise_inol: 0.8
-  scheme: 2x5@87.5%
-  set_inol: '0.4'
-  volume: '10'
-  weight: '138.25'
-  weight_olympic: '138.0'
-  weight_powerlifting: '137.5'
 - exercise_inol: 0.96
   scheme: 4x3@87.5%
   set_inol: '0.24'
@@ -103,23 +82,9 @@
   weight: '138.25'
   weight_olympic: '138.0'
   weight_powerlifting: '137.5'
-- exercise_inol: 0.96
-  scheme: 2x6@87.5%
-  set_inol: '0.48'
-  volume: '12'
-  weight: '138.25'
-  weight_olympic: '138.0'
-  weight_powerlifting: '137.5'
 - exercise_inol: 1.2
   scheme: 5x3@87.5%
   set_inol: '0.24'
-  volume: '15'
-  weight: '138.25'
-  weight_olympic: '138.0'
-  weight_powerlifting: '137.5'
-- exercise_inol: 1.2000000000000002
-  scheme: 3x5@87.5%
-  set_inol: '0.4'
   volume: '15'
   weight: '138.25'
   weight_olympic: '138.0'
@@ -131,31 +96,10 @@
   weight: '138.25'
   weight_olympic: '138.0'
   weight_powerlifting: '137.5'
-- exercise_inol: 1.44
-  scheme: 3x6@87.5%
-  set_inol: '0.48'
-  volume: '18'
-  weight: '138.25'
-  weight_olympic: '138.0'
-  weight_powerlifting: '137.5'
 - exercise_inol: 1.6
   scheme: 5x4@87.5%
   set_inol: '0.32'
   volume: '20'
-  weight: '138.25'
-  weight_olympic: '138.0'
-  weight_powerlifting: '137.5'
-- exercise_inol: 1.6
-  scheme: 4x5@87.5%
-  set_inol: '0.4'
-  volume: '20'
-  weight: '138.25'
-  weight_olympic: '138.0'
-  weight_powerlifting: '137.5'
-- exercise_inol: 1.92
-  scheme: 4x6@87.5%
-  set_inol: '0.48'
-  volume: '24'
   weight: '138.25'
   weight_olympic: '138.0'
   weight_powerlifting: '137.5'

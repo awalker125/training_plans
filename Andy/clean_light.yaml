@@ -5,7 +5,7 @@ current_max: 146
 target_exercise_inol: 0.4
 max_exercise_inol: 2
 min_exercise_inol: 0.3
-max_set_inol: 0.5
+max_set_inol: 0.4
 min_set_inol: 0.05
 intensity_increment: 5
 max_intensity: 97
