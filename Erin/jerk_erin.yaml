@@ -1,7 +1,7 @@
 ---
 
 name: jerk erin
-current_max: 50
+current_max: 56
 target_exercise_inol: 0.6
 max_exercise_inol: 2
 min_exercise_inol: 0.3
