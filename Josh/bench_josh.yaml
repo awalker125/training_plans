@@ -1,15 +1,15 @@
 ---
 
 name: bench josh
-current_max: 90
-target_exercise_inol: 1
+current_max: 100
+target_exercise_inol: 1.2
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.5
 min_set_inol: 0.05
-intensity_increment: 5
-max_intensity: 95
-max_reps: 10
+intensity_increment: 2.5
+max_intensity: 97.5
+max_reps: 20
 min_reps: 1
 min_sets: 1
 max_sets: 6
