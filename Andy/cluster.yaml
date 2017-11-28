@@ -1,8 +1,8 @@
 ---
 
 name: cluster
-current_max: 105
-target_exercise_inol: 0.4
+current_max: 110
+target_exercise_inol: 0.8
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.4
