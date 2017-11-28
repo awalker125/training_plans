@@ -8,7 +8,7 @@ min_exercise_inol: 0.3
 max_set_inol: 0.4
 min_set_inol: 0.05
 intensity_increment: 5
-max_intensity: 97
+max_intensity: 95
 max_reps: 5
 min_reps: 1
 min_sets: 1
