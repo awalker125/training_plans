@@ -277,8 +277,9 @@ def main():
         #outfile2.write(seperator)
         for week in sorted_training_plan:
             #summary = "{0:5} {1:12} {2:8} {3:10} {4:8}\n".format(str(week['week']),week['scheme'],week['weight'],week['weight_olympic'],week['weight_powerlifting'])
-            summary = "{0} | {1} | {2} | {3} | {4}\n\n".format(str(week['week']),week['scheme'],week['weight'],week['weight_olympic'],week['weight_powerlifting'])
+            summary = "{0} | {1} | {2} | {3} | {4}\n".format(str(week['week']),week['scheme'],week['weight'],week['weight_olympic'],week['weight_powerlifting'])
             outfile2.write(summary)
+        outfile2.write("\n")
     #end = time.time()
     #elapse = end - start
 

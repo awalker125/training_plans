@@ -29,7 +29,7 @@ else
 	echo "could not find subdir ${SUBDIR}"
 fi
 
-echo "#${SUBDIR^}" > ${WHEREAMI}/${SUBDIR}/README.md
+echo "# ${SUBDIR^}" > ${WHEREAMI}/${SUBDIR}/README.md
 echo >> ${WHEREAMI}/${SUBDIR}/README.md
 
 for YAML in $(ls ${WHEREAMI}/${SUBDIR}/*.yaml)
