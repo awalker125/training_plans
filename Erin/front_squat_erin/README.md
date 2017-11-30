@@ -1,4 +1,4 @@
-## Front Squat Erin
+## Front Squat
 
 ### Summary
 

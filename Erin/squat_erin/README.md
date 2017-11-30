@@ -1,4 +1,4 @@
-## Squat Erin
+## Squat
 
 ### Summary
 

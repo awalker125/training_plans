@@ -20,7 +20,7 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 6 | 5x2@90% | 45.9 | 46.0 | 45.0
 7 | 5x1@95% | 48.45 | 48.0 | 47.5
 
-## Clean Erin
+## Clean
 
 ### Summary
 
@@ -40,7 +40,7 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 6 | 8x1@92% | 55.2 | 55.0 | 55.0
 7 | 3x1@97% | 58.2 | 58.0 | 57.5
 
-## Dips Erin
+## Dips
 
 ### Summary
 
@@ -60,7 +60,7 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 6 | 4x1@92.5% | 65.675 | 66.0 | 65.0
 7 | 2x1@95.0% | 67.45 | 67.0 | 67.5
 
-## Front Squat Erin
+## Front Squat
 
 ### Summary
 
@@ -80,7 +80,7 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 6 | 2x3@90% | 57.6 | 58.0 | 57.5
 7 | 3x1@95% | 60.8 | 61.0 | 60.0
 
-## Jerk Erin
+## Jerk
 
 ### Summary
 
@@ -100,7 +100,7 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 6 | 8x1@90% | 54.0 | 54.0 | 55.0
 7 | 4x1@95% | 57.0 | 57.0 | 57.5
 
-## Erin
+## Snatch
 
 ### Summary
 
@@ -120,7 +120,7 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 6 | 8x1@90% | 43.2 | 43.0 | 42.5
 7 | 4x1@95% | 45.6 | 46.0 | 45.0
 
-## Squat Erin
+## Squat
 
 ### Summary
 

@@ -1,4 +1,4 @@
-## Dips Erin
+## Dips
 
 ### Summary
 
