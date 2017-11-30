@@ -29,10 +29,8 @@ else
 	echo "could not find subdir ${SUBDIR}"
 fi
 
-if [ -f ${WHEREAMI}/${SUBDIR}/README.md ]
-then
-	rm -rf ${WHEREAMI}/${SUBDIR}/README.md
-fi
+echo "#${SUBDIR^}" > ${WHEREAMI}/${SUBDIR}/README.md
+echo >> ${WHEREAMI}/${SUBDIR}/README.md
 
 for YAML in $(ls ${WHEREAMI}/${SUBDIR}/*.yaml)
 do
