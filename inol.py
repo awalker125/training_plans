@@ -245,10 +245,11 @@ def main():
         #min_sets: 1
         #max_sets: 10
         
-        header1 = "# {0}\n\n".format(config["name"].title())
+        
+        header1 = "## {0}\n\n".format(config["name"].title())
         outfile2.write(header1)
         
-        header2 = "## {0}\n\n".format("Summary")
+        header2 = "### {0}\n\n".format("Summary")
         outfile2.write(header2)
         
         header_table_headers = "{0} | {1} | {2} | {3} | {4}\n".format("Weeks","Max","Target INOL","Max Reps","Max Sets")
@@ -261,7 +262,7 @@ def main():
         outfile2.write(header_table_data)
         
         
-        header3 = "## {0}\n\n".format("Plan")
+        header3 = "#### {0}\n\n".format("Plan")
         outfile2.write(header3)
         #header = "{0:5} {1:12} {2:8} {3:10} {4:8}\n".format("Week","Scheme","Weight","Olympic", "Power")
         
@@ -276,7 +277,7 @@ def main():
         #outfile2.write(seperator)
         for week in sorted_training_plan:
             #summary = "{0:5} {1:12} {2:8} {3:10} {4:8}\n".format(str(week['week']),week['scheme'],week['weight'],week['weight_olympic'],week['weight_powerlifting'])
-            summary = "{0} | {1} | {2} | {3} | {4}\n".format(str(week['week']),week['scheme'],week['weight'],week['weight_olympic'],week['weight_powerlifting'])
+            summary = "{0} | {1} | {2} | {3} | {4}\n\n".format(str(week['week']),week['scheme'],week['weight'],week['weight_olympic'],week['weight_powerlifting'])
             outfile2.write(summary)
     #end = time.time()
     #elapse = end - start
