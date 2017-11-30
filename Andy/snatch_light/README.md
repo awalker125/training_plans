@@ -1,4 +1,4 @@
-## Snatch
+## Snatch Light
 
 ### Summary
 

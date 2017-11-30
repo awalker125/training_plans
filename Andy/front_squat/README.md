@@ -1,4 +1,4 @@
-## Front Sqaut
+## Front Squat
 
 ### Summary
 

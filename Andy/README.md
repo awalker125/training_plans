@@ -40,7 +40,7 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 6 | 8x1@90% | 131.4 | 131.0 | 132.5
 7 | 4x1@95% | 138.7 | 139.0 | 137.5
 
-## Clean
+## Clean Light
 
 ### Summary
 
@@ -140,7 +140,7 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 6 | 5x2@90% | 171.9 | 172.0 | 172.5
 7 | 5x1@95% | 181.45 | 181.0 | 182.5
 
-## Front Sqaut
+## Front Squat
 
 ### Summary
 
@@ -300,7 +300,7 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 6 | 8x1@90% | 109.8 | 110.0 | 110.0
 7 | 4x1@95% | 115.9 | 116.0 | 115.0
 
-## Snatch
+## Snatch Light
 
 ### Summary
 

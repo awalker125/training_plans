@@ -1,4 +1,4 @@
-## Clean
+## Clean Light
 
 ### Summary
 
