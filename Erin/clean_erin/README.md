@@ -1,12 +1,12 @@
-# Clean Erin
+## Clean Erin
 
-## Summary
+### Summary
 
 Weeks | Max | Target INOL | Max Reps | Max Sets
 --- | --- | --- | --- | ---
 6 | 60 | 1.0 | 5 | 10
 
-## Plan
+#### Plan
 
  ... | Sets/Reps | Weight | Olympic | Power
 --- | --- | --- | --- | ---
@@ -17,3 +17,4 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 5 | 6x2@87% | 52.2 | 52.0 | 52.5
 6 | 8x1@92% | 55.2 | 55.0 | 55.0
 7 | 3x1@97% | 58.2 | 58.0 | 57.5
+

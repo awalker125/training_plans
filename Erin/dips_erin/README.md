@@ -1,12 +1,12 @@
-# Dips Erin
+## Dips Erin
 
-## Summary
+### Summary
 
 Weeks | Max | Target INOL | Max Reps | Max Sets
 --- | --- | --- | --- | ---
 6 | 71 | 0.5 | 12 | 5
 
-## Plan
+#### Plan
 
  ... | Sets/Reps | Weight | Olympic | Power
 --- | --- | --- | --- | ---
@@ -17,3 +17,4 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 5 | 5x1@90.0% | 63.9 | 64.0 | 65.0
 6 | 4x1@92.5% | 65.675 | 66.0 | 65.0
 7 | 2x1@95.0% | 67.45 | 67.0 | 67.5
+

@@ -1,12 +1,12 @@
-# Front Squat Erin
+## Front Squat Erin
 
-## Summary
+### Summary
 
 Weeks | Max | Target INOL | Max Reps | Max Sets
 --- | --- | --- | --- | ---
 6 | 64 | 0.6 | 10 | 6
 
-## Plan
+#### Plan
 
  ... | Sets/Reps | Weight | Olympic | Power
 --- | --- | --- | --- | ---
@@ -17,3 +17,4 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 5 | 3x3@85% | 54.4 | 54.0 | 55.0
 6 | 2x3@90% | 57.6 | 58.0 | 57.5
 7 | 3x1@95% | 60.8 | 61.0 | 60.0
+

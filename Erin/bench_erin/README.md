@@ -1,12 +1,12 @@
-# Bench
+## Bench
 
-## Summary
+### Summary
 
 Weeks | Max | Target INOL | Max Reps | Max Sets
 --- | --- | --- | --- | ---
 6 | 51 | 1.0 | 20 | 6
 
-## Plan
+#### Plan
 
  ... | Sets/Reps | Weight | Olympic | Power
 --- | --- | --- | --- | ---
@@ -17,3 +17,4 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 5 | 5x3@85% | 43.35 | 43.0 | 42.5
 6 | 5x2@90% | 45.9 | 46.0 | 45.0
 7 | 5x1@95% | 48.45 | 48.0 | 47.5
+

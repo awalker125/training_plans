@@ -1,12 +1,12 @@
-# Jerk Erin
+## Jerk Erin
 
-## Summary
+### Summary
 
 Weeks | Max | Target INOL | Max Reps | Max Sets
 --- | --- | --- | --- | ---
 6 | 60 | 0.8 | 5 | 10
 
-## Plan
+#### Plan
 
  ... | Sets/Reps | Weight | Olympic | Power
 --- | --- | --- | --- | ---
@@ -17,3 +17,4 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 5 | 6x2@85% | 51.0 | 51.0 | 50.0
 6 | 8x1@90% | 54.0 | 54.0 | 55.0
 7 | 4x1@95% | 57.0 | 57.0 | 57.5
+

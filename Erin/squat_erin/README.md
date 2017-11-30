@@ -1,12 +1,12 @@
-# Squat Erin
+## Squat Erin
 
-## Summary
+### Summary
 
 Weeks | Max | Target INOL | Max Reps | Max Sets
 --- | --- | --- | --- | ---
 6 | 80 | 0.6 | 20 | 6
 
-## Plan
+#### Plan
 
  ... | Sets/Reps | Weight | Olympic | Power
 --- | --- | --- | --- | ---
@@ -17,3 +17,4 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 5 | 3x3@85% | 68.0 | 68.0 | 67.5
 6 | 2x3@90% | 72.0 | 72.0 | 72.5
 7 | 3x1@95% | 76.0 | 76.0 | 75.0
+
