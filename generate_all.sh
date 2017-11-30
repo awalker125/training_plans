@@ -29,6 +29,10 @@ else
 	echo "could not find subdir ${SUBDIR}"
 fi
 
+if [ -f ${WHEREAMI}/${SUBDIR}/README.rst ]
+then
+	rm -rf ${WHEREAMI}/${SUBDIR}/README.rst
+fi
 
 for YAML in $(ls ${WHEREAMI}/${SUBDIR}/*.yaml)
 do
@@ -43,4 +47,10 @@ do
 	
 	python ${WHEREAMI}/inol.py --output ${WHEREAMI}/${SUBDIR}/${filename} --weeks ${WEEKS}  --config ${WHEREAMI}/${SUBDIR}/${filename}.yaml
 	
+	if [ -f ${WHEREAMI}/${SUBDIR}/${filename}/README.rst ]
+	then
+		cat ${WHEREAMI}/${SUBDIR}/${filename}/README.rst >> ${WHEREAMI}/${SUBDIR}/README.rst
+	fi
 done
+
+
