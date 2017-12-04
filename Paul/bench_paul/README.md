@@ -1,12 +1,12 @@
-# Bench Paul
+## Bench Paul
 
-## Summary
+### Summary
 
 Weeks | Max | Target INOL | Max Reps | Max Sets
 --- | --- | --- | --- | ---
 6 | 80 | 0.9 | 10 | 6
 
-## Plan
+#### Plan
 
  ... | Sets/Reps | Weight | Olympic | Power
 --- | --- | --- | --- | ---
@@ -17,3 +17,4 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 5 | 2x7@85% | 68.0 | 68.0 | 67.5
 6 | 3x3@90% | 72.0 | 72.0 | 72.5
 7 | 4x1@95% | 76.0 | 76.0 | 75.0
+
