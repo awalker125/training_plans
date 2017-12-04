@@ -1,8 +1,8 @@
 ---
 
 name: bench
-current_max: 187.5
-target_exercise_inol: 0.8
+current_max: 184
+target_exercise_inol: 1
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.4
