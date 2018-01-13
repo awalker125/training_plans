@@ -33,3 +33,17 @@
   weight: '123.5'
   weight_olympic: '124.0'
   weight_powerlifting: '122.5'
+- exercise_inol: 1.4000000000000001
+  scheme: 7x1@95%
+  set_inol: '0.2'
+  volume: '7'
+  weight: '123.5'
+  weight_olympic: '124.0'
+  weight_powerlifting: '122.5'
+- exercise_inol: 1.6
+  scheme: 8x1@95%
+  set_inol: '0.2'
+  volume: '8'
+  weight: '123.5'
+  weight_olympic: '124.0'
+  weight_powerlifting: '122.5'

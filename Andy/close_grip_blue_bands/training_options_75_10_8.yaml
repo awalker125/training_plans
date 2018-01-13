@@ -76,6 +76,13 @@
   weight_olympic: '98.0'
   weight_powerlifting: '97.5'
 - exercise_inol: 0.56
+  scheme: 7x2@75%
+  set_inol: '0.08'
+  volume: '14'
+  weight: '97.5'
+  weight_olympic: '98.0'
+  weight_powerlifting: '97.5'
+- exercise_inol: 0.56
   scheme: 2x7@75%
   set_inol: '0.28'
   volume: '14'
@@ -93,6 +100,13 @@
   scheme: 3x5@75%
   set_inol: '0.2'
   volume: '15'
+  weight: '97.5'
+  weight_olympic: '98.0'
+  weight_powerlifting: '97.5'
+- exercise_inol: 0.64
+  scheme: 8x2@75%
+  set_inol: '0.08'
+  volume: '16'
   weight: '97.5'
   weight_olympic: '98.0'
   weight_powerlifting: '97.5'
@@ -145,10 +159,24 @@
   weight: '97.5'
   weight_olympic: '98.0'
   weight_powerlifting: '97.5'
+- exercise_inol: 0.84
+  scheme: 7x3@75%
+  set_inol: '0.12'
+  volume: '21'
+  weight: '97.5'
+  weight_olympic: '98.0'
+  weight_powerlifting: '97.5'
 - exercise_inol: 0.8400000000000001
   scheme: 3x7@75%
   set_inol: '0.28'
   volume: '21'
+  weight: '97.5'
+  weight_olympic: '98.0'
+  weight_powerlifting: '97.5'
+- exercise_inol: 0.96
+  scheme: 8x3@75%
+  set_inol: '0.12'
+  volume: '24'
   weight: '97.5'
   weight_olympic: '98.0'
   weight_powerlifting: '97.5'
@@ -188,6 +216,13 @@
   weight_olympic: '98.0'
   weight_powerlifting: '97.5'
 - exercise_inol: 1.12
+  scheme: 7x4@75%
+  set_inol: '0.16'
+  volume: '28'
+  weight: '97.5'
+  weight_olympic: '98.0'
+  weight_powerlifting: '97.5'
+- exercise_inol: 1.12
   scheme: 4x7@75%
   set_inol: '0.28'
   volume: '28'
@@ -209,9 +244,23 @@
   weight_olympic: '98.0'
   weight_powerlifting: '97.5'
 - exercise_inol: 1.28
+  scheme: 8x4@75%
+  set_inol: '0.16'
+  volume: '32'
+  weight: '97.5'
+  weight_olympic: '98.0'
+  weight_powerlifting: '97.5'
+- exercise_inol: 1.28
   scheme: 4x8@75%
   set_inol: '0.32'
   volume: '32'
+  weight: '97.5'
+  weight_olympic: '98.0'
+  weight_powerlifting: '97.5'
+- exercise_inol: 1.4000000000000001
+  scheme: 7x5@75%
+  set_inol: '0.2'
+  volume: '35'
   weight: '97.5'
   weight_olympic: '98.0'
   weight_powerlifting: '97.5'
@@ -237,9 +286,23 @@
   weight_olympic: '98.0'
   weight_powerlifting: '97.5'
 - exercise_inol: 1.6
+  scheme: 8x5@75%
+  set_inol: '0.2'
+  volume: '40'
+  weight: '97.5'
+  weight_olympic: '98.0'
+  weight_powerlifting: '97.5'
+- exercise_inol: 1.6
   scheme: 5x8@75%
   set_inol: '0.32'
   volume: '40'
+  weight: '97.5'
+  weight_olympic: '98.0'
+  weight_powerlifting: '97.5'
+- exercise_inol: 1.68
+  scheme: 7x6@75%
+  set_inol: '0.24'
+  volume: '42'
   weight: '97.5'
   weight_olympic: '98.0'
   weight_powerlifting: '97.5'
@@ -258,9 +321,23 @@
   weight_olympic: '98.0'
   weight_powerlifting: '97.5'
 - exercise_inol: 1.92
+  scheme: 8x6@75%
+  set_inol: '0.24'
+  volume: '48'
+  weight: '97.5'
+  weight_olympic: '98.0'
+  weight_powerlifting: '97.5'
+- exercise_inol: 1.92
   scheme: 6x8@75%
   set_inol: '0.32'
   volume: '48'
+  weight: '97.5'
+  weight_olympic: '98.0'
+  weight_powerlifting: '97.5'
+- exercise_inol: 1.9600000000000002
+  scheme: 7x7@75%
+  set_inol: '0.28'
+  volume: '49'
   weight: '97.5'
   weight_olympic: '98.0'
   weight_powerlifting: '97.5'
