@@ -2,69 +2,69 @@
   scheme: 5x2@67%
   set_inol: '0.0606060606061'
   volume: '10'
-  weight: '70.35'
-  weight_olympic: '70.0'
-  weight_powerlifting: '70.0'
+  weight: '71.69'
+  weight_olympic: '72.0'
+  weight_powerlifting: '72.5'
 - exercise_inol: 0.30303030303030304
   scheme: 2x5@67%
   set_inol: '0.151515151515'
   volume: '10'
-  weight: '70.35'
-  weight_olympic: '70.0'
-  weight_powerlifting: '70.0'
+  weight: '71.69'
+  weight_olympic: '72.0'
+  weight_powerlifting: '72.5'
 - exercise_inol: 0.36363636363636365
   scheme: 4x3@67%
   set_inol: '0.0909090909091'
   volume: '12'
-  weight: '70.35'
-  weight_olympic: '70.0'
-  weight_powerlifting: '70.0'
+  weight: '71.69'
+  weight_olympic: '72.0'
+  weight_powerlifting: '72.5'
 - exercise_inol: 0.36363636363636365
   scheme: 3x4@67%
   set_inol: '0.121212121212'
   volume: '12'
-  weight: '70.35'
-  weight_olympic: '70.0'
-  weight_powerlifting: '70.0'
+  weight: '71.69'
+  weight_olympic: '72.0'
+  weight_powerlifting: '72.5'
 - exercise_inol: 0.4545454545454546
   scheme: 5x3@67%
   set_inol: '0.0909090909091'
   volume: '15'
-  weight: '70.35'
-  weight_olympic: '70.0'
-  weight_powerlifting: '70.0'
+  weight: '71.69'
+  weight_olympic: '72.0'
+  weight_powerlifting: '72.5'
 - exercise_inol: 0.4545454545454546
   scheme: 3x5@67%
   set_inol: '0.151515151515'
   volume: '15'
-  weight: '70.35'
-  weight_olympic: '70.0'
-  weight_powerlifting: '70.0'
+  weight: '71.69'
+  weight_olympic: '72.0'
+  weight_powerlifting: '72.5'
 - exercise_inol: 0.48484848484848486
   scheme: 4x4@67%
   set_inol: '0.121212121212'
   volume: '16'
-  weight: '70.35'
-  weight_olympic: '70.0'
-  weight_powerlifting: '70.0'
+  weight: '71.69'
+  weight_olympic: '72.0'
+  weight_powerlifting: '72.5'
 - exercise_inol: 0.6060606060606061
   scheme: 5x4@67%
   set_inol: '0.121212121212'
   volume: '20'
-  weight: '70.35'
-  weight_olympic: '70.0'
-  weight_powerlifting: '70.0'
+  weight: '71.69'
+  weight_olympic: '72.0'
+  weight_powerlifting: '72.5'
 - exercise_inol: 0.6060606060606061
   scheme: 4x5@67%
   set_inol: '0.151515151515'
   volume: '20'
-  weight: '70.35'
-  weight_olympic: '70.0'
-  weight_powerlifting: '70.0'
+  weight: '71.69'
+  weight_olympic: '72.0'
+  weight_powerlifting: '72.5'
 - exercise_inol: 0.7575757575757576
   scheme: 5x5@67%
   set_inol: '0.151515151515'
   volume: '25'
-  weight: '70.35'
-  weight_olympic: '70.0'
-  weight_powerlifting: '70.0'
+  weight: '71.69'
+  weight_olympic: '72.0'
+  weight_powerlifting: '72.5'

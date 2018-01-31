@@ -1,8 +1,8 @@
 ---
 
 name: bench paul
-current_max: 80
-target_exercise_inol: 0.9
+current_max: 82.5
+target_exercise_inol: 0.6
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.5

@@ -2,258 +2,258 @@
   scheme: 6x2@65%
   set_inol: '0.0571428571429'
   volume: '12'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.34285714285714286
   scheme: 4x3@65%
   set_inol: '0.0857142857143'
   volume: '12'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.34285714285714286
   scheme: 3x4@65%
   set_inol: '0.114285714286'
   volume: '12'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.34285714285714286
   scheme: 2x6@65%
   set_inol: '0.171428571429'
   volume: '12'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.4
   scheme: 2x7@65%
   set_inol: '0.2'
   volume: '14'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.42857142857142855
   scheme: 3x5@65%
   set_inol: '0.142857142857'
   volume: '15'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.4285714285714286
   scheme: 5x3@65%
   set_inol: '0.0857142857143'
   volume: '15'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.45714285714285713
   scheme: 4x4@65%
   set_inol: '0.114285714286'
   volume: '16'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.45714285714285713
   scheme: 2x8@65%
   set_inol: '0.228571428571'
   volume: '16'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.5142857142857142
   scheme: 6x3@65%
   set_inol: '0.0857142857143'
   volume: '18'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.5142857142857142
   scheme: 3x6@65%
   set_inol: '0.171428571429'
   volume: '18'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.5142857142857142
   scheme: 2x9@65%
   set_inol: '0.257142857143'
   volume: '18'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.5714285714285714
   scheme: 5x4@65%
   set_inol: '0.114285714286'
   volume: '20'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.5714285714285714
   scheme: 4x5@65%
   set_inol: '0.142857142857'
   volume: '20'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.5714285714285714
   scheme: 2x10@65%
   set_inol: '0.285714285714'
   volume: '20'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.6000000000000001
   scheme: 3x7@65%
   set_inol: '0.2'
   volume: '21'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.6857142857142857
   scheme: 6x4@65%
   set_inol: '0.114285714286'
   volume: '24'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.6857142857142857
   scheme: 4x6@65%
   set_inol: '0.171428571429'
   volume: '24'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.6857142857142857
   scheme: 3x8@65%
   set_inol: '0.228571428571'
   volume: '24'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.7142857142857142
   scheme: 5x5@65%
   set_inol: '0.142857142857'
   volume: '25'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.7714285714285714
   scheme: 3x9@65%
   set_inol: '0.257142857143'
   volume: '27'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.8
   scheme: 4x7@65%
   set_inol: '0.2'
   volume: '28'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.8571428571428571
   scheme: 6x5@65%
   set_inol: '0.142857142857'
   volume: '30'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.8571428571428571
   scheme: 3x10@65%
   set_inol: '0.285714285714'
   volume: '30'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.8571428571428572
   scheme: 5x6@65%
   set_inol: '0.171428571429'
   volume: '30'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 0.9142857142857143
   scheme: 4x8@65%
   set_inol: '0.228571428571'
   volume: '32'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 1.0
   scheme: 5x7@65%
   set_inol: '0.2'
   volume: '35'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 1.0285714285714285
   scheme: 6x6@65%
   set_inol: '0.171428571429'
   volume: '36'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 1.0285714285714285
   scheme: 4x9@65%
   set_inol: '0.257142857143'
   volume: '36'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 1.1428571428571428
   scheme: 5x8@65%
   set_inol: '0.228571428571'
   volume: '40'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 1.1428571428571428
   scheme: 4x10@65%
   set_inol: '0.285714285714'
   volume: '40'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 1.2000000000000002
   scheme: 6x7@65%
   set_inol: '0.2'
   volume: '42'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 1.2857142857142856
   scheme: 5x9@65%
   set_inol: '0.257142857143'
   volume: '45'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 1.3714285714285714
   scheme: 6x8@65%
   set_inol: '0.228571428571'
   volume: '48'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 1.4285714285714284
   scheme: 5x10@65%
   set_inol: '0.285714285714'
   volume: '50'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 1.5428571428571427
   scheme: 6x9@65%
   set_inol: '0.257142857143'
   volume: '54'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'
 - exercise_inol: 1.7142857142857142
   scheme: 6x10@65%
   set_inol: '0.285714285714'
   volume: '60'
-  weight: '52.0'
-  weight_olympic: '52.0'
+  weight: '53.625'
+  weight_olympic: '54.0'
   weight_powerlifting: '52.5'

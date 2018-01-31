@@ -1,8 +1,8 @@
 ---
 
 name: jerk
-current_max: 140
-target_exercise_inol: 0.8
+current_max: 145
+target_exercise_inol: 1.0
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.4
