@@ -1,8 +1,8 @@
 ---
 
-name: bench
-current_max: 51
-target_exercise_inol: 1.0
+name: bench (Monday)
+current_max: 53
+target_exercise_inol: 0.8
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.4

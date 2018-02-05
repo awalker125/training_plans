@@ -1,8 +1,8 @@
 ---
 
-name: dips
-current_max: 71
-target_exercise_inol: 0.5
+name: dips (Wednesday)
+current_max: 73
+target_exercise_inol: 0.7
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.4
