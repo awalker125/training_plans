@@ -2,7 +2,7 @@
 
 name: squat (Thursday)
 current_max: 83
-target_exercise_inol: 1.2
+target_exercise_inol: 0.7
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.4
