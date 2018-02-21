@@ -1,8 +1,10 @@
 ---
 
+#03/2018
+
 name: bench
-current_max: 186
-target_exercise_inol: 0.85
+current_max: 188
+target_exercise_inol: 1
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.4
@@ -12,9 +14,25 @@ max_intensity: 95
 max_reps: 10
 min_reps: 1
 min_sets: 1
-max_sets: 6
-weeks:
-    - week: 1
-      intensity: 65
-    - week: 2
-      intensity: 70
+max_sets: 5
+
+#01/2018
+
+#name: bench
+#current_max: 186
+#target_exercise_inol: 0.85
+#max_exercise_inol: 2
+#min_exercise_inol: 0.3
+#max_set_inol: 0.4
+#min_set_inol: 0.05
+#intensity_increment: 5
+#max_intensity: 95
+#max_reps: 10
+#min_reps: 1
+#min_sets: 1
+#max_sets: 6
+#weeks:
+#    - week: 1
+#      intensity: 65
+#    - week: 2
+#      intensity: 70
