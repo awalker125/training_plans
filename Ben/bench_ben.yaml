@@ -1,8 +1,9 @@
 ---
 
+
 name: bench ben
-current_max: 95
-target_exercise_inol: 1.0
+current_max: 97
+target_exercise_inol: 0.8
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.4
@@ -13,8 +14,17 @@ max_reps: 10
 min_reps: 1
 min_sets: 1
 max_sets: 6
-weeks:
-    - week: 1
-      intensity: 65
-    - week: 2
-      intensity: 70
+
+#name: bench ben
+#current_max: 95
+#target_exercise_inol: 1.0
+#max_exercise_inol: 2
+#min_exercise_inol: 0.3
+#max_set_inol: 0.4
+#min_set_inol: 0.05
+#intensity_increment: 5
+#max_intensity: 95
+#max_reps: 10
+#min_reps: 1
+#min_sets: 1
+#max_sets: 6
