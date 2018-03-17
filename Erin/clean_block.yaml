@@ -13,8 +13,3 @@ max_reps: 5
 min_reps: 1
 min_sets: 1
 max_sets: 6
-weeks:
-    - week: 1
-      intensity: 65
-    - week: 2
-      intensity: 70
