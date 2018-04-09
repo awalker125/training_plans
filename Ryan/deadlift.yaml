@@ -1,0 +1,24 @@
+---
+
+name: deadlift
+current_max: 235
+target_exercise_inol: 0.9
+max_exercise_inol: 2
+min_exercise_inol: 0.3
+max_set_inol: 0.5
+min_set_inol: 0.05
+intensity_increment: 5
+max_intensity: 95
+max_reps: 6
+min_reps: 1
+min_sets: 1
+max_sets: 8
+notes:
+  - 95% week is test week. You dont have to do this but if you do want to see where you are do a heavy single. e.g 90%, 95%, 100%, 105% comp style. I wouldnt do this unless you are feeling great and fancy a go.
+  - If this feels too light then instead of increasing weight try to focus on speed and tightness in core
+  - This 6 weeks is really only to see where you are and get a bit of volume in
+  - "Assistance is:"
+  - " - pull ups"
+  - " - toes to bar or knees to elbows (without straps)"
+  - " - plate flips"    
+  - " - loaded barbell hold 30 sec"    
