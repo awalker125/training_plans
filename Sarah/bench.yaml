@@ -1,0 +1,25 @@
+---
+
+
+#09/04/2018
+
+name: bench
+current_max: 77.5
+target_exercise_inol: 1
+max_exercise_inol: 2
+min_exercise_inol: 0.3
+max_set_inol: 0.4
+min_set_inol: 0.05
+intensity_increment: 5
+max_intensity: 95
+max_reps: 10
+min_reps: 1
+min_sets: 1
+max_sets: 5
+notes:
+  - 95% week is test week. You dont have to do this but if you do want to see where you are do a heavy single. e.g 90%, 95%, 100%, 105% comp style
+  - Do this on Monday or early in the week. On a wednesday do 50% + bands close grip. 6-8 doubles.
+  - Pause everything on the chest.
+  - "**PAUSE EVERYTHING AT LOCKOUT**"
+  - Try to generate as much speed of the chest as possible but especially with the bands
+  - On a friday go up to a heavy double. Aim for 90% week 1 but leave some in the tank. No grinders or misses. Try to build momentum each week by putting 1kg on you 90%. Dont go too heavy too early.

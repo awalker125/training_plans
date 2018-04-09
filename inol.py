@@ -280,6 +280,14 @@ def main():
             summary = "{0} | {1} | {2} | {3} | {4}\n".format(str(week['week']),week['scheme'],week['weight'],week['weight_olympic'],week['weight_powerlifting'])
             outfile2.write(summary)
         outfile2.write("\n")
+        
+        if 'notes' in config:
+            header4 = "### {0}\n\n".format("Notes")
+            outfile2.write(header4)
+            for note in config["notes"]:
+                note_item = "- {0}\n".format(note)
+                outfile2.write(note_item)
+            outfile2.write("\n")
     #end = time.time()
     #elapse = end - start
 
