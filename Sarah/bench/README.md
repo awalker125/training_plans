@@ -20,10 +20,10 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 
 ### Notes
 
-- 95% week is test week. You dont have to do this but if you do want to see where you are do a heavy single. e.g 90%, 95%, 100%, 105% comp style
+- 95% week is test week. You dont have to do this but if you do want to see where you are do a heavy single. e.g 90%, 95%, 100%, 105% comp style. I havent done this for a while now.
 - Do this on Monday or early in the week. On a wednesday do 50% + bands close grip. 6-8 doubles.
 - Pause everything on the chest.
 - **PAUSE EVERYTHING AT LOCKOUT**
-- Try to generate as much speed of the chest as possible but especially with the bands
-- On a friday go up to a heavy double. Aim for 90% week 1 but leave some in the tank. No grinders or misses. Try to build momentum each week by putting 1kg on you 90%. Dont go too heavy too early.
+- Try to generate as much speed off the chest as possible but especially with the bands
+- On a friday go up to a heavy double. Aim for 90% week 1 but leave some in the tank. No grinders or misses. Try to build momentum each week by putting 1kg on your 90%. Dont go too heavy too early. Especially because this is based on a 77.5. 65x2 week 1 would be ideal.
 
