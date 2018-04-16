@@ -4,22 +4,23 @@
 
 Weeks | Max | Target INOL | Max Reps | Max Sets
 --- | --- | --- | --- | ---
-6 | 155 | 0.8 | 10 | 6
+6 | 125 | 0.8 | 10 | 6
 
 #### Plan
 
  ... | Sets/Reps | Weight | Olympic | Power
 --- | --- | --- | --- | ---
-1 | 4x7@65% | 100.75 | 101.0 | 100.0
-2 | 6x4@70% | 108.5 | 109.0 | 107.5
-3 | 5x4@75% | 116.25 | 116.0 | 117.5
-4 | 4x4@80% | 124.0 | 124.0 | 125.0
-5 | 6x2@85% | 131.75 | 132.0 | 132.5
-6 | 4x2@90% | 139.5 | 140.0 | 140.0
-7 | 4x1@95% | 147.25 | 147.0 | 147.5
+1 | 4x7@65% | 81.25 | 81.0 | 82.5
+2 | 6x4@70% | 87.5 | 88.0 | 87.5
+3 | 5x4@75% | 93.75 | 94.0 | 95.0
+4 | 4x4@80% | 100.0 | 100.0 | 100.0
+5 | 6x2@85% | 106.25 | 106.0 | 107.5
+6 | 4x2@90% | 112.5 | 113.0 | 112.5
+7 | 4x1@95% | 118.75 | 119.0 | 120.0
 
 ### Notes
 
 - 95% week is test week. You dont have to do this but if you do want to see where you are do a heavy single. e.g 90%, 95%, 100%, 105% comp style. I wouldnt do this unless you are feeling great and fancy a go. Alternatively you can do a 2 rep max.
 - If this feels too light then instead of increasing weight try to focus on speed and technique.
+- Try to maintain a full grip on the bar and high elbows. If you struggle drop weight and/or use straps. This will help your clean in the long run.
 
