@@ -1,0 +1,22 @@
+---
+
+#02/04/2018
+
+name: dips
+current_max: 105
+target_exercise_inol: 0.65
+max_exercise_inol: 2
+min_exercise_inol: 0.3
+max_set_inol: 0.4
+min_set_inol: 0.05
+intensity_increment: 5
+max_intensity: 95
+max_reps: 12
+min_reps: 1
+min_sets: 1
+max_sets: 6
+notes:
+  - 95% week is test week. You dont have to do this but if you do want to see where you are do a heavy single. e.g 90%, 95%, 100%, 105% comp style. I wouldnt do this unless you are feeling great and fancy a go. Alternatively you can do a 2 rep max.
+  - Watch the range of motion at first. I like to go just below 90% but some people get shoulder problems so go to where you need to.
+  - Take your bodyweight of the weight. So if you weigh 76 and it says do 96 you'd put 20kg plate on the belt.
+  

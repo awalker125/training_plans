@@ -1,0 +1,23 @@
+---
+
+#02/04/2018
+
+name: bench
+current_max: 110
+target_exercise_inol: 0.8
+max_exercise_inol: 2
+min_exercise_inol: 0.3
+max_set_inol: 0.4
+min_set_inol: 0.05
+intensity_increment: 5
+max_intensity: 95
+max_reps: 10
+min_reps: 1
+min_sets: 1
+max_sets: 6
+notes:
+  - 95% week is test week. You dont have to do this but if you do want to see where you are do a heavy single. e.g 90%, 95%, 100%, 105% comp style. I wouldnt do this unless you are feeling great and fancy a go. Alternatively you can do a 2 rep max.
+  - Try to pause all reps comp style. Especially in the early weeks when its light.
+  - "Assistance is:"
+  - " push ups. 3 sets of high reps. If you can do 30 then do 30/20/10. If you can do 21 to 21/15/9. If you can only do 15 then do 15/12/9. If you can do more than 30 unbroken just drop 10 a set. I've only ever been up to 45/35/25 so I cant tell you if the drops need to be bigger for 50+ reps."
+  - " anti-extension ab work. E.g ab wheel, hollow rock, deadbug or all 3"
