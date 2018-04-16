@@ -1,7 +1,7 @@
 ---
 
 name: deadlift
-current_max: 235
+current_max: 190
 target_exercise_inol: 0.9
 max_exercise_inol: 2
 min_exercise_inol: 0.3
