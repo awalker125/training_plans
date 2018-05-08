@@ -41,7 +41,10 @@ do
 	
 	echo $filename
 	
-
+	if [ -d ${WHEREAMI}/${SUBDIR}/${filename} ]
+	then
+		rm -rf ${WHEREAMI}/${SUBDIR}/${filename}
+	fi
 	
 	python ${WHEREAMI}/inol.py --output ${WHEREAMI}/${SUBDIR}/${filename} --weeks ${WEEKS}  --config ${WHEREAMI}/${SUBDIR}/${filename}.yaml
 	

@@ -1,18 +1,37 @@
 ---
 
+
+
 name: squat (Thursday)
-current_max: 83
+current_max: 87
 target_exercise_inol: 0.6
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.4
 min_set_inol: 0.05
 intensity_increment: 5
-max_intensity: 92.5
+max_intensity: 95
 max_reps: 20
 min_reps: 1
 min_sets: 1
 max_sets: 6
+notes:
+ - Paused squats on tuesday. 6x2 at 43 and try to add 1kg every week
+ - With the paused ones. Try to accelerate as fast as possible out the bottom.
+
+#name: squat (Thursday)
+#current_max: 83
+#target_exercise_inol: 0.6
+#max_exercise_inol: 2
+#min_exercise_inol: 0.3
+#max_set_inol: 0.4
+#min_set_inol: 0.05
+#intensity_increment: 5
+#max_intensity: 92.5
+#max_reps: 20
+#min_reps: 1
+#min_sets: 1
+#max_sets: 6
 
 #1Q2017
 #name: squat (Thursday)
