@@ -158,7 +158,9 @@ def main():
     logging.info("max_intensity: " + str(config["max_intensity"]))        
     logging.info("max_reps: " + str(config["max_reps"]))   
     logging.info("min_sets: " + str(config["min_sets"]))   
-    logging.info("min_reps: " + str(config["min_reps"]))   
+    logging.info("min_reps: " + str(config["min_reps"]))
+    if 'training_day' in config:
+        logging.info("training_day" +  str(config["training_day"]))  
 
     min_intensity = config["max_intensity"] - (config["intensity_increment"] * options.weeks)
     logging.info("min_intensity: {0}".format(str(min_intensity)))
@@ -247,6 +249,8 @@ def main():
         
         
         header1 = "## {0}\n\n".format(config["name"].title())
+        if 'training_day' in config:
+            header1 = "## {0} ({1})\n\n".format(config["name"].title(),config["training_day"].title())
         outfile2.write(header1)
         
         header2 = "### {0}\n\n".format("Summary")
