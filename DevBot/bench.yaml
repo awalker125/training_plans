@@ -17,9 +17,9 @@ min_sets: 1
 max_sets: 5
 weeks:
     - week: 1
-      intensity: 65
+      intensity: 66
       inol: 0.6
     - week: 2
-      intensity: 70
+      intensity: 71
       inol: 0.7
   

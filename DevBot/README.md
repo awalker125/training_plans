@@ -12,7 +12,6 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 
  ... | Sets/Reps | Weight | Olympic | Power
 --- | --- | --- | --- | ---
-1 | 5x7@65% | 130.0 | 130.0 | 130.0
 2 | 5x6@70% | 140.0 | 140.0 | 140.0
 3 | 5x5@75% | 150.0 | 150.0 | 150.0
 4 | 5x4@80% | 160.0 | 160.0 | 160.0
@@ -32,7 +31,6 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 
  ... | Sets/Reps | Weight | Olympic | Power
 --- | --- | --- | --- | ---
-1 | 7x3@65% | 65.0 | 65.0 | 65.0
 2 | 2x9@70% | 70.0 | 70.0 | 70.0
 3 | 5x3@75% | 75.0 | 75.0 | 75.0
 4 | 4x3@80% | 80.0 | 80.0 | 80.0

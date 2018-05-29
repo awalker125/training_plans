@@ -173,11 +173,18 @@ def main():
     training_plan_summary_file_path = options.output + "/" + training_plan_summary_file_name + ".md"          
             
     training_plan = []             
-    week = 0
+    week = 1
     while (week < options.weeks + 1):
         intensity = min_intensity + (week * config["intensity_increment"] )
         week = week + 1
-        logging.info("Generating training optios for intensity {0} in week {1}".format(str(intensity),str(week)))
+        logging.info("Generating training options for intensity {0} in week {1}".format(str(intensity),str(week)))
+        
+        if 'weeks' in config:
+            #we might have overrides
+            if week in config['weeks']:
+                if 'intensity' in config['weeks']['week'][week]:
+                    intensity = config['weeks']['week'][week]['intensity']
+                
         
         #current_max, max_reps, intensity, min_sets, max_sets, min_set_inol, max_set_inol, min_exercise_inol, max_exercise_inol
         training_options = generate_training_options(config["current_max"], config["max_reps"], intensity, config["min_sets"], config["max_sets"], config["min_set_inol"], config["max_set_inol"], config["min_exercise_inol"], config["max_exercise_inol"])
