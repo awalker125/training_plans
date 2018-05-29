@@ -18,3 +18,7 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 6 | 3x3@90% | 141.75 | 142.0 | 142.5
 7 | 4x1@95% | 149.625 | 150.0 | 150.0
 
+### Notes
+
+- if it feels light concentrate on speed instead of increasing weight or pause them
+
