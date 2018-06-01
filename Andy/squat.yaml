@@ -1,9 +1,10 @@
 ---
 
 name: squat
+#pre injury
 #current_max: 205
-current_max: 120
-target_exercise_inol: 1.2
+current_max: 70
+target_exercise_inol: 0.8
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.4
