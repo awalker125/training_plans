@@ -1,8 +1,9 @@
 ---
 
+
 name: front squat Ben
-current_max: 90
-target_exercise_inol: 0.7
+current_max: 85
+target_exercise_inol: 0.8
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.4
@@ -13,3 +14,19 @@ max_reps: 10
 min_reps: 1
 min_sets: 1
 max_sets: 6
+notes:
+  - I've lowered your max 5kg but upped the volume.
+
+#name: front squat Ben
+#current_max: 90
+#target_exercise_inol: 0.7
+#max_exercise_inol: 2
+#min_exercise_inol: 0.3
+#max_set_inol: 0.4
+#min_set_inol: 0.05
+#intensity_increment: 5
+#max_intensity: 95
+#max_reps: 10
+#min_reps: 1
+#min_sets: 1
+#max_sets: 6

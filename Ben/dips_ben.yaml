@@ -1,7 +1,7 @@
 ---
 
 name: dips ben
-current_max: 130
+current_max: 132.5
 target_exercise_inol: 0.8
 max_exercise_inol: 2
 min_exercise_inol: 0.3
@@ -13,3 +13,5 @@ max_reps: 12
 min_reps: 1
 min_sets: 1
 max_sets: 5
+notes:
+  - I moved this up 2.5kg but not sure if you have been doing this or not or if its too easy.
