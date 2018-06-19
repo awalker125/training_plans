@@ -2,8 +2,8 @@
 
 
 name: snatch (Monday)
-current_max: 53
-target_exercise_inol: 0.8
+current_max: 55
+target_exercise_inol: 0.9
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.4
@@ -14,6 +14,20 @@ max_reps: 5
 min_reps: 1
 min_sets: 1
 max_sets: 10
+
+#name: snatch (Monday)
+#current_max: 53
+#target_exercise_inol: 0.8
+#max_exercise_inol: 2
+#min_exercise_inol: 0.3
+#max_set_inol: 0.4
+#min_set_inol: 0.05
+#intensity_increment: 5
+#max_intensity: 95
+#max_reps: 5
+#min_reps: 1
+#min_sets: 1
+#max_sets: 10
 
 
 #name: snatch (Monday)

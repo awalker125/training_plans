@@ -1,7 +1,7 @@
 ---
 
 name: snatch pull (Wednesday)
-current_max: 72
+current_max: 74
 target_exercise_inol: 0.4
 max_exercise_inol: 2
 min_exercise_inol: 0.3
@@ -16,6 +16,23 @@ max_sets: 5
 notes:
   - based off 65x2 was 90%
   - Hang snatch. Similar overall reps/sets but weight by feel
+
+#name: snatch pull (Wednesday)
+#current_max: 72
+#target_exercise_inol: 0.4
+#max_exercise_inol: 2
+#min_exercise_inol: 0.3
+#max_set_inol: 0.4
+#min_set_inol: 0.05
+#intensity_increment: 5
+#max_intensity: 95
+#max_reps: 6
+#min_reps: 2
+#min_sets: 1
+#max_sets: 5
+#notes:
+#  - based off 65x2 was 90%
+#  - Hang snatch. Similar overall reps/sets but weight by feel
 
 
 
