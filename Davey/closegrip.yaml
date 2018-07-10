@@ -3,9 +3,9 @@
 
 #17052019
 
-name: bench
-current_max: 194
-target_exercise_inol: 0.75
+name: close grip
+current_max: 165
+target_exercise_inol: 0.45
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.4
@@ -18,7 +18,7 @@ min_sets: 1
 max_sets: 5
 notes:
   - pause everything
-  - dont panic
+  - try hard
 
 ##17052019
 #
