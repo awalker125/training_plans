@@ -1,6 +1,6 @@
 ---
 name: Power Clean + Power Jerk (Tuesday)
-current_max: 53
+current_max: 54
 target_exercise_inol: 0.6
 max_exercise_inol: 2
 min_exercise_inol: 0.3

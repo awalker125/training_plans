@@ -6,24 +6,47 @@
 
 Weeks | Max | Target INOL | Max Reps | Max Sets
 --- | --- | --- | --- | ---
-6 | 115 | 1 | 10 | 5
+6 | 117.5 | 0.75 | 10 | 5
 
 #### Plan
 
  ... | Sets/Reps | Weight | Olympic | Power
 --- | --- | --- | --- | ---
-1 | 5x7@65% | 74.75 | 75.0 | 75.0
-2 | 5x6@70% | 80.5 | 81.0 | 80.0
-3 | 5x5@75% | 86.25 | 86.0 | 87.5
-4 | 5x4@80% | 92.0 | 92.0 | 92.5
-5 | 5x3@85% | 97.75 | 98.0 | 97.5
-6 | 5x2@90% | 103.5 | 104.0 | 102.5
-7 | 5x1@95% | 109.25 | 109.0 | 110.0
+1 | 3x9@65% | 76.375 | 76.0 | 77.5
+2 | 4x6@70% | 82.25 | 82.0 | 82.5
+3 | 3x6@75% | 88.125 | 88.0 | 87.5
+4 | 5x3@80% | 94.0 | 94.0 | 95.0
+5 | 4x3@85% | 99.875 | 100.0 | 100.0
+6 | 4x2@90% | 105.75 | 106.0 | 105.0
+7 | 4x1@95% | 111.625 | 112.0 | 112.5
 
 ### Notes
 
-- try to pause all reps
-- if it feels light concentrate on speed instead of increasing weight
+- pause every rep
+
+## Close Grip
+
+### Summary
+
+Weeks | Max | Target INOL | Max Reps | Max Sets
+--- | --- | --- | --- | ---
+6 | 100 | 0.45 | 10 | 5
+
+#### Plan
+
+ ... | Sets/Reps | Weight | Olympic | Power
+--- | --- | --- | --- | ---
+1 | 4x4@65% | 65.0 | 65.0 | 65.0
+2 | 2x7@70% | 70.0 | 70.0 | 70.0
+3 | 4x3@75% | 75.0 | 75.0 | 75.0
+4 | 3x3@80% | 80.0 | 80.0 | 80.0
+5 | 3x2@85% | 85.0 | 85.0 | 85.0
+6 | 4x1@90% | 90.0 | 90.0 | 90.0
+7 | 2x1@95% | 95.0 | 95.0 | 95.0
+
+### Notes
+
+- pause everything
 
 ## Deadlift
 
@@ -31,47 +54,44 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 
 Weeks | Max | Target INOL | Max Reps | Max Sets
 --- | --- | --- | --- | ---
-6 | 200 | 0.7 | 6 | 8
+6 | 215 | 0.65 | 8 | 8
 
 #### Plan
 
  ... | Sets/Reps | Weight | Olympic | Power
 --- | --- | --- | --- | ---
-1 | 7x4@62% | 124.0 | 124.0 | 125.0
-2 | 8x3@67% | 134.0 | 134.0 | 135.0
-3 | 5x4@72% | 144.0 | 144.0 | 145.0
-4 | 8x2@77% | 154.0 | 154.0 | 155.0
-5 | 6x2@82% | 164.0 | 164.0 | 165.0
-6 | 3x3@87% | 174.0 | 174.0 | 175.0
-7 | 6x1@92% | 184.0 | 184.0 | 185.0
+1 | 8x3@65% | 139.75 | 140.0 | 140.0
+2 | 5x4@70% | 150.5 | 151.0 | 150.0
+3 | 8x2@75% | 161.25 | 161.0 | 162.5
+4 | 6x2@80% | 172.0 | 172.0 | 172.5
+5 | 5x2@85% | 182.75 | 183.0 | 182.5
+6 | 6x1@90% | 193.5 | 194.0 | 192.5
+7 | 3x1@95% | 204.25 | 204.0 | 205.0
 
 ### Notes
 
-- if it feels light concentrate on speed/technique instead of increasing weight
+- Have reduced the overall volume slightly. Just trying to find where you do best. It might be not enough but then we'll know
+- 95% week is test week if you choose to do it. I.e hit 95% then go up as far as you want.
 
-## Press
+## Front Squat
 
 ### Summary
 
 Weeks | Max | Target INOL | Max Reps | Max Sets
 --- | --- | --- | --- | ---
-6 | 67.5 | 0.6 | 10 | 5
+6 | 130 | 0.55 | 10 | 5
 
 #### Plan
 
  ... | Sets/Reps | Weight | Olympic | Power
 --- | --- | --- | --- | ---
-1 | 3x7@65% | 43.875 | 44.0 | 45.0
-2 | 2x9@70% | 47.25 | 47.0 | 47.5
-3 | 5x3@75% | 50.625 | 51.0 | 50.0
-4 | 4x3@80% | 54.0 | 54.0 | 55.0
-5 | 3x3@85% | 57.375 | 57.0 | 57.5
-6 | 2x3@90% | 60.75 | 61.0 | 60.0
-7 | 3x1@95% | 64.125 | 64.0 | 65.0
-
-### Notes
-
-- if it feels light concentrate on speed instead of increasing weight
+1 | 5x4@65% | 84.5 | 85.0 | 85.0
+2 | 4x4@70% | 91.0 | 91.0 | 90.0
+3 | 2x7@75% | 97.5 | 98.0 | 97.5
+4 | 4x3@80% | 104.0 | 104.0 | 105.0
+5 | 4x2@85% | 110.5 | 111.0 | 110.0
+6 | 2x3@90% | 117.0 | 117.0 | 117.5
+7 | 3x1@95% | 123.5 | 124.0 | 122.5
 
 ## Squat
 
@@ -79,21 +99,17 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 
 Weeks | Max | Target INOL | Max Reps | Max Sets
 --- | --- | --- | --- | ---
-6 | 157.5 | 0.9 | 20 | 6
+6 | 167.5 | 0.75 | 10 | 5
 
 #### Plan
 
  ... | Sets/Reps | Weight | Olympic | Power
 --- | --- | --- | --- | ---
-1 | 4x8@65% | 102.375 | 102.0 | 102.5
-2 | 3x9@70% | 110.25 | 110.0 | 110.0
-3 | 6x4@75% | 118.125 | 118.0 | 117.5
-4 | 6x3@80% | 126.0 | 126.0 | 125.0
-5 | 6x2@85% | 133.875 | 134.0 | 135.0
-6 | 3x3@90% | 141.75 | 142.0 | 142.5
-7 | 4x1@95% | 149.625 | 150.0 | 150.0
-
-### Notes
-
-- if it feels light concentrate on speed instead of increasing weight or pause them
+1 | 3x9@65% | 108.875 | 109.0 | 110.0
+2 | 4x6@70% | 117.25 | 117.0 | 117.5
+3 | 3x6@75% | 125.625 | 126.0 | 125.0
+4 | 5x3@80% | 134.0 | 134.0 | 135.0
+5 | 4x3@85% | 142.375 | 142.0 | 142.5
+6 | 4x2@90% | 150.75 | 151.0 | 150.0
+7 | 4x1@95% | 159.125 | 159.0 | 160.0
 

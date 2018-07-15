@@ -1,7 +1,7 @@
 ---
 
 name: clean pull (Tuesday)
-current_max: 84
+current_max: 88
 target_exercise_inol: 0.5
 max_exercise_inol: 2
 min_exercise_inol: 0.3

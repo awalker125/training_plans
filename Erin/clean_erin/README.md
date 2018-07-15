@@ -4,22 +4,21 @@
 
 Weeks | Max | Target INOL | Max Reps | Max Sets
 --- | --- | --- | --- | ---
-6 | 66 | 0.9 | 5 | 10
+6 | 67 | 0.8 | 5 | 10
 
 #### Plan
 
  ... | Sets/Reps | Weight | Olympic | Power
 --- | --- | --- | --- | ---
-1 | 8x4@65% | 42.9 | 43.0 | 42.5
-2 | 9x3@70% | 46.2 | 46.0 | 45.0
-3 | 8x3@75% | 49.5 | 50.0 | 50.0
-4 | 9x2@80% | 52.8 | 53.0 | 52.5
-5 | 7x2@85% | 56.1 | 56.0 | 55.0
-6 | 9x1@90% | 59.4 | 59.0 | 60.0
-7 | 4x1@95% | 62.7 | 63.0 | 62.5
+1 | 7x4@65% | 43.55 | 44.0 | 42.5
+2 | 8x3@70% | 46.9 | 47.0 | 47.5
+3 | 10x2@75% | 50.25 | 50.0 | 50.0
+4 | 8x2@80% | 53.6 | 54.0 | 52.5
+5 | 6x2@85% | 56.95 | 57.0 | 57.5
+6 | 8x1@90% | 60.3 | 60.0 | 60.0
+7 | 4x1@95% | 63.65 | 64.0 | 62.5
 
 ### Notes
 
-- clean only this cycle. No jerk
-- Three weeks only. Ignore the other weeks
+- clean and jerk this block. Only jerk the last rep of each set. So if its sets of 4 its 4 clean + 1 jerk
 

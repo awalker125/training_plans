@@ -2,17 +2,36 @@
 
 
 name: deadlift
-current_max: 200
-target_exercise_inol: 0.7
+current_max: 215
+target_exercise_inol: 0.65
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.5
 min_set_inol: 0.05
 intensity_increment: 5
-max_intensity: 92
-max_reps: 6
+max_intensity: 95
+max_reps: 8
 min_reps: 1
 min_sets: 1
 max_sets: 8
 notes:
-  - if it feels light concentrate on speed/technique instead of increasing weight
+  - Have reduced the overall volume slightly. Just trying to find where you do best. It might be not enough but then we'll know
+  - 95% week is test week if you choose to do it. I.e hit 95% then go up as far as you want.
+
+
+
+#name: deadlift
+#current_max: 200
+#target_exercise_inol: 0.7
+#max_exercise_inol: 2
+#min_exercise_inol: 0.3
+#max_set_inol: 0.5
+#min_set_inol: 0.05
+#intensity_increment: 5
+#max_intensity: 92
+#max_reps: 6
+#min_reps: 1
+#min_sets: 1
+#max_sets: 8
+#notes:
+#  - if it feels light concentrate on speed/technique instead of increasing weight
