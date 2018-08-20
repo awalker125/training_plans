@@ -1,56 +1,56 @@
-- exercise_inol: 0.7999999999999999
-  scheme: 7x4@65%
-  set_inol: '0.114285714286'
-  volume: '28'
-  week: 1
-  weight: '43.55'
-  weight_olympic: '44.0'
-  weight_powerlifting: '42.5'
-- exercise_inol: 0.8
-  scheme: 8x3@70%
-  set_inol: '0.1'
-  volume: '24'
-  week: 2
-  weight: '46.9'
-  weight_olympic: '47.0'
-  weight_powerlifting: '47.5'
-- exercise_inol: 0.8
-  scheme: 10x2@75%
-  set_inol: '0.08'
-  volume: '20'
-  week: 3
-  weight: '50.25'
-  weight_olympic: '50.0'
-  weight_powerlifting: '50.0'
 - exercise_inol: 0.8
   scheme: 8x2@80%
   set_inol: '0.1'
   volume: '16'
-  week: 4
-  weight: '53.6'
-  weight_olympic: '54.0'
-  weight_powerlifting: '52.5'
-- exercise_inol: 0.8
-  scheme: 6x2@85%
-  set_inol: '0.133333333333'
+  week: 1
+  weight: '48.0'
+  weight_olympic: '48.0'
+  weight_powerlifting: '47.5'
+- exercise_inol: 0.7777777777777777
+  scheme: 7x2@82%
+  set_inol: '0.111111111111'
+  volume: '14'
+  week: 2
+  weight: '49.2'
+  weight_olympic: '49.0'
+  weight_powerlifting: '50.0'
+- exercise_inol: 0.75
+  scheme: 6x2@84%
+  set_inol: '0.125'
   volume: '12'
+  week: 3
+  weight: '50.4'
+  weight_olympic: '50.0'
+  weight_powerlifting: '50.0'
+- exercise_inol: 0.8571428571428571
+  scheme: 6x2@86%
+  set_inol: '0.142857142857'
+  volume: '12'
+  week: 4
+  weight: '51.6'
+  weight_olympic: '52.0'
+  weight_powerlifting: '52.5'
+- exercise_inol: 0.8333333333333333
+  scheme: 10x1@88%
+  set_inol: '0.0833333333333'
+  volume: '10'
   week: 5
-  weight: '56.95'
-  weight_olympic: '57.0'
-  weight_powerlifting: '57.5'
+  weight: '52.8'
+  weight_olympic: '53.0'
+  weight_powerlifting: '52.5'
 - exercise_inol: 0.8
   scheme: 8x1@90%
   set_inol: '0.1'
   volume: '8'
   week: 6
-  weight: '60.3'
-  weight_olympic: '60.0'
-  weight_powerlifting: '60.0'
-- exercise_inol: 0.8
-  scheme: 4x1@95%
-  set_inol: '0.2'
-  volume: '4'
+  weight: '54.0'
+  weight_olympic: '54.0'
+  weight_powerlifting: '55.0'
+- exercise_inol: 0.75
+  scheme: 6x1@92%
+  set_inol: '0.125'
+  volume: '6'
   week: 7
-  weight: '63.65'
-  weight_olympic: '64.0'
-  weight_powerlifting: '62.5'
+  weight: '55.2'
+  weight_olympic: '55.0'
+  weight_powerlifting: '55.0'
