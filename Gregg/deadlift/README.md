@@ -4,22 +4,22 @@
 
 Weeks | Max | Target INOL | Max Reps | Max Sets
 --- | --- | --- | --- | ---
-6 | 215 | 0.65 | 8 | 8
+6 | 228 | 0.75 | 8 | 8
 
 #### Plan
 
  ... | Sets/Reps | Weight | Olympic | Power
 --- | --- | --- | --- | ---
-1 | 8x3@65% | 139.75 | 140.0 | 140.0
-2 | 5x4@70% | 150.5 | 151.0 | 150.0
-3 | 8x2@75% | 161.25 | 161.0 | 162.5
-4 | 6x2@80% | 172.0 | 172.0 | 172.5
-5 | 5x2@85% | 182.75 | 183.0 | 182.5
-6 | 6x1@90% | 193.5 | 194.0 | 192.5
-7 | 3x1@95% | 204.25 | 204.0 | 205.0
+1 | 5x5@65% | 148.2 | 148.0 | 147.5
+2 | 7x3@70% | 159.6 | 160.0 | 160.0
+3 | 6x3@75% | 171.0 | 171.0 | 170.0
+4 | 5x3@80% | 182.4 | 182.0 | 182.5
+5 | 6x2@85% | 193.8 | 194.0 | 195.0
+6 | 7x1@90% | 205.2 | 205.0 | 205.0
+7 | 4x1@95% | 216.6 | 217.0 | 217.5
 
 ### Notes
 
-- Have reduced the overall volume slightly. Just trying to find where you do best. It might be not enough but then we'll know
+- Set max at 228/500lbs as its a decent milestone to aim for.
 - 95% week is test week if you choose to do it. I.e hit 95% then go up as far as you want.
 

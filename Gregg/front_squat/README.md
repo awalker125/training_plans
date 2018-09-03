@@ -18,3 +18,8 @@ Weeks | Max | Target INOL | Max Reps | Max Sets
 6 | 2x3@90% | 117.0 | 117.0 | 117.5
 7 | 3x1@95% | 123.5 | 124.0 | 122.5
 
+### Notes
+
+- Kept this the same as you said you did 127.5
+- You've got more deadlifts and bench so some stuff need to stay the same or you'll boil over.
+
