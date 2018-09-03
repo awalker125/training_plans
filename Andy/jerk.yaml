@@ -1,8 +1,12 @@
 ---
 
+#03/09/2018
+
 name: jerk
-current_max: 156
-target_exercise_inol: 0.6
+current_max: 80
+#pre injury
+#current_max: 156
+target_exercise_inol: 0.4
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.4
@@ -13,8 +17,17 @@ max_reps: 5
 min_reps: 1
 min_sets: 1
 max_sets: 10
-weeks:
-    - week: 1
-      intensity: 65
-    - week: 2
-      intensity: 70
+
+#name: jerk
+#current_max: 156
+#target_exercise_inol: 0.6
+#max_exercise_inol: 2
+#min_exercise_inol: 0.3
+#max_set_inol: 0.4
+#min_set_inol: 0.05
+#intensity_increment: 5
+#max_intensity: 95
+#max_reps: 5
+#min_reps: 1
+#min_sets: 1
+#max_sets: 10
