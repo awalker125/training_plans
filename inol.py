@@ -145,6 +145,9 @@ def main():
 
     with open(options.config, 'r') as config_file:
         config = yaml.load(config_file)
+        
+    if not 'go_hard' in config:
+        config['go_hard'] = 1
 
     logging.debug(config)
     logging.info("name: " + config["name"])
@@ -208,6 +211,14 @@ def main():
                 best_difference = getInolDifference(config["target_exercise_inol"], best_training_option['exercise_inol']);
                 training_option_difference = getInolDifference(config["target_exercise_inol"], training_option['exercise_inol']);
                 
+                if training_option_difference == best_difference:
+                    logging.info("Option {2} and {1} are the same as {0}: ".format(str(best_difference),str(training_option_difference),str(training_option['scheme'])))
+                    
+                    if config['go_hard'] > 0:
+                        logging.info("Go Hard is set. Will priorities short harder sessions")
+                        if training_option['set_inol'] > best_training_option['set_inol']:
+                            best_training_option = training_option
+                    
                 if training_option_difference < best_difference:
                     logging.info("Option {2} is better {1} < {0}: ".format(str(best_difference),str(training_option_difference),str(training_option['scheme'])))
                     best_training_option = training_option

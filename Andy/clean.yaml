@@ -1,7 +1,8 @@
 ---
 
 name: clean
-current_max: 87
+current_max: 80
+go_hard: 0
 #pre injury
 #current_max: 146
 target_exercise_inol: 0.8
@@ -10,11 +11,11 @@ min_exercise_inol: 0.3
 max_set_inol: 0.4
 min_set_inol: 0.05
 intensity_increment: 5
-max_intensity: 95
+max_intensity: 90
 max_reps: 5
 min_reps: 1
 min_sets: 1
-max_sets: 10
+max_sets: 8
 
 
 #name: clean
