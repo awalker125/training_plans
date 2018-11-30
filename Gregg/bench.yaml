@@ -2,20 +2,45 @@
 
 
 name: bench
-current_max: 122.5
-target_exercise_inol: 0.85
+go_hard: 1
+current_max: 117.5
+target_exercise_inol: 0.6
 max_exercise_inol: 2
 min_exercise_inol: 0.3
 max_set_inol: 0.4
 min_set_inol: 0.05
 intensity_increment: 5
-max_intensity: 95
+max_intensity: 90
 max_reps: 10
 min_reps: 1
 min_sets: 1
 max_sets: 5
 notes:
-  - pause every rep
+  - pause everything (mississippi style)
+  - dont panic
+  - Heavy double +1kg each week starting at 99kg
+  - Do this early in the week
+  - Bands mid week
+  - Heavy doubles close grip end of week. No failures or grinders. I think the kids call that RPE9.5
+  - Bands do 4-8 doubles. Concentrate on speed off chest. 
+  - Start at 55kg + band of your choice. 
+  - If in doubt use lighter band.
+
+#name: bench
+#current_max: 122.5
+#target_exercise_inol: 0.85
+#max_exercise_inol: 2
+#min_exercise_inol: 0.3
+#max_set_inol: 0.4
+#min_set_inol: 0.05
+#intensity_increment: 5
+#max_intensity: 95
+#max_reps: 10
+#min_reps: 1
+#min_sets: 1
+#max_sets: 5
+#notes:
+#  - pause every rep
 
 #name: bench
 #current_max: 117.5
